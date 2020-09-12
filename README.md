@@ -9,6 +9,8 @@ I presented this research as my final project for the graduate-level course Tran
 This study explores the response of U.S. public transportation agencies to sexual harassment and assault incidents that have taken place on board through sexual
 misconduct programs case studies. These case studies provide insights into the tools transit operators can utilize for combatting sexual misconduct.
 
+You can find the full presentation slides under the [presentation](https://github.com/KoralleB/SexualMisconductTransit/tree/master/presentation) subfolder.
+
 ## Introduction
 
 Sexual misconduct, including sexual harassment (unwanted sexual attention) and sexual assault (forced sexual acts), is widely spread on public transit in the U.S. 

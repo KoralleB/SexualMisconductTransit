@@ -1,6 +1,7 @@
 # Sexual Misconduct Programs of Public Transportation Agencies
 
 ## Background
+
 The presentation here summarizes the results of independent qualitative research I conducted about sexual misconduct programs of public transportation agencies in The U.S.
 
 I presented this research as my final project for the graduate-level course Transportation Policy (TTP 220) at UC Davis.
@@ -21,3 +22,6 @@ local non-profit organizations supporting sexual violence victims to develop ind
 While existing literature identifies tools that should be used by public transportation agencies for the sexual misconduct combat,
 I learned that no prior research conducts a comprehensive case-based comparison review of different sexual misconduct programs of US transportation agencies.
 
+![Vancouver](https://github.com/KoralleB/SexualMisconductTransit/blob/master/image/Vancouver.jpg)
+
+![KCMresult](https://github.com/KoralleB/SexualMisconductTransit/blob/master/image/KCMresult.PNG)

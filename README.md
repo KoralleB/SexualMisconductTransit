@@ -22,6 +22,6 @@ local non-profit organizations supporting sexual violence victims to develop ind
 While existing literature identifies tools that should be used by public transportation agencies for the sexual misconduct combat,
 I learned that no prior research conducts a comprehensive case-based comparison review of different sexual misconduct programs of US transportation agencies.
 
-![Vancouver](https://github.com/KoralleB/SexualMisconductTransit/blob/master/image/Vancouver.jpg)
+<img src="https://github.com/KoralleB/SexualMisconductTransit/blob/master/image/KCMcamp.png">
 
-![KCMresult](https://github.com/KoralleB/SexualMisconductTransit/blob/master/image/KCMresult.PNG)
+<img src="https://github.com/KoralleB/SexualMisconductTransit/blob/master/image/KCMresult.PNG">
